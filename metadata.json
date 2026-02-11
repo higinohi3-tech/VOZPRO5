@@ -1,0 +1,7 @@
+{
+  "name": "VozPro AI",
+  "description": "Transforme seus textos em narrações profissionais instantaneamente com inteligência artificial avançada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
